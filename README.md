@@ -116,9 +116,3 @@ Please make sure to update tests as appropriate, and adhere to the project's cod
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or issues, feel free to reach out to the project maintainer:
-
-- **Email:** [your-email@example.com](mailto:mrakchaudhary2003@gmail.com)
-- **GitHub:** [yourusername](https://github.com/arunks2003)
